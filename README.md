@@ -60,6 +60,10 @@ Instead of directly providing answers we give services that could evaluate the a
 ![image](https://github.com/user-attachments/assets/7c2b67a5-32ed-4f5e-bf22-0d61e06bfc4e)
 
 1. Email for a licence
-2. 
+2. Read the API doc.
+3. Send for questions for Initialize API.
+4. Answer questions and send the answers to the evaluation API.
+5. Wait for the scores.
+6. Use the high score answer for reinforcement learning.
 
 
